@@ -1,25 +1,15 @@
 # Tables of Contents
 
-* [About ICSBookMarket](#about-icsbookmarket)
-* [Installation](#installation)
-* [Application design](#application-design)
-  * [Directory structure](#directory-structure)
-  * [Import conventions](#import-conventions)
-  * [Naming conventions](#naming-conventions)
-  * [Data model](#data-model)
-  * [CSS](#css)
-  * [Routing](#routing)
+* [Inspiration](#Inspiration)
+* [What it Does](#what-it-does)
+* [Application Structure](#application-structure)
   * [Authentication](#authentication)
   * [Authorization](#authorization)
-  * [Configuration](#configuration)
-  * [Quality Assurance](#quality-assurance)
-    * [ESLint](#eslint)
-  * [Development History](#development-history)
+* [Development History](#development-history)
+    * [Hawaii Annual Code Challenge 2017](#hacc17)
     * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
     * [Milestone 2: Data Model Development](#milestone-2-data-model-development)
-    * [Milestone 3: Connect UI to Data Model](#milestone-3-connect-ui-to-data-model)
-    * [End User Testing](#end-user-testing)
-    * [Galaxy Deployment](#galaxy-deployment)
+    * [Contributors](#Contributors)
 
 ## Inspiration
 
@@ -61,7 +51,7 @@ We also hope to improve our fulfillment of the sponsor's vision for this challen
 
 One feature that we did not have enough time for and would like to implement is elevation maps.  We would like users to be able to navigate the internal floors of a building to be able to find more specific rooms, classrooms, offices, professors, among other possibilities. 
 
-![](images/UHM-ICS-BM-Landing.png)
+![](images/.png)
 
 ## Contributors
 
