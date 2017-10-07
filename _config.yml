@@ -1,0 +1,8 @@
+title: LoveMilkTea
+description: A wayfinding application for the University of Hawai'i at Mānoa.
+google_analytics: 
+show_downloads: false
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
