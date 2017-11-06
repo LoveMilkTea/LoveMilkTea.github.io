@@ -73,11 +73,19 @@ We believe in crowd-sourcing. If you notice something missing on the map, add or
 
 ### Administration
 
-Administrators can review, accept or reject data submissions.
+Administrators can review, accept or reject data submissions. Administrative credentials are necessary to utilize functions that allow an administrator to approve, modify or reject user-submitted data. 
 
 <img src="/images/approve.png">
 
-Administrative credentials are necessary to utilize functions that allow an administrator to approve, modify or reject user-submitted data.  For the purposes of the HACC of 2017, please contact danny_tan on the Slack to obtain said credentials.
+User accounts are required for users to comment on places of interest. The user can signup with a valid email and password then confirm their accounts through a link sent to their email. This ensures only valid email accounts are used to create accounts.
+
+<img src="/images/notverified.png">
+
+Confirmation email, with validation link.
+
+<img src="/images/confirmEmail.png">
+
+<img src="/images/comments.png">
 
 ## Application Structure
 
