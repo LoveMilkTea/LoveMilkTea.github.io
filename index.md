@@ -33,8 +33,10 @@ We believe that crowdsourcing and collaboration is a powerful and prevalent way 
 
 Browse for various points of interest, including, but not limited to restaurants, restrooms, entertainment venues, and more. When browsing, further details such as descriptions, hours and the specific address are also provided, allowing you to get information about those specific places.
 
-<img src="/images/all.png">
-<img src="/images/info.png">
+<div style="display: flex">
+  <img src="/images/all.png">
+  <img src="/images/info.png">
+ </div>
 
 ### Explore
 
