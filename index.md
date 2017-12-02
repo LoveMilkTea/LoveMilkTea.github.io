@@ -137,12 +137,15 @@ Or run as a Mobile Application in Ionic Labs
 ionic serve --lab
 ```
 
+You can watch this video to see what getting your local installation up and running should look like.
+
+[![asciicast](https://asciinema.org/a/XHDe3NGNNgGQFPSczrT7BUwZ9.png)](https://asciinema.org/a/XHDe3NGNNgGQFPSczrT7BUwZ9)
+
 ### Mobile Installation
 
 Please visit our mobile-friendly deployment on [Heroku](https://lovemilktea.herokuapp.com)
 
 Native mobile apps coming soon!
-
 
 ## Download
 
@@ -156,12 +159,12 @@ From here, select and run the 'LoveMilkTea' app.
 
 ## Contributors
 
-LoveMilkTea was made with love, milk and tea, by LoveMilkTea, which includes the following members:
+Wayfinder was made with ❤️ and Milk Tea ☕, by team LoveMilkTea, which includes the following members:
 
-  * [Tyler Chong](#)
-  * [Brendt McFeeley](#)
-  * [Shaziney Natividad](#)
-  * [Christopher Nguyen](#)
-  * [Russell Omo](#)
-  * [Chaselyn Pugh](#)
-  * [Danny Tan](#)
+  * [Tyler Chong](https://github.com/Viltaria)
+  * [Brendt McFeeley](https://github.com/brendtmcfeeley)
+  * [Shaziney Natividad](https://github.com/shaziney)
+  * [Christopher Nguyen](https://github.com/chrisnguyenhi)
+  * [Russell Omo](https://github.com/russellomo)
+  * [Chaselyn Pugh](https://github.com/cepugh)
+  * [Danny Tan](https://github.com/dannytan)
