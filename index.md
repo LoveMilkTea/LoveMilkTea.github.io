@@ -2,22 +2,22 @@
 
 # Table of Contents
 
-* [Inspiration](#Inspiration)
-* [What it Does](#What-it-Does)
-  * [Browse Points of Interest on the Map](#authorization)
-  * [Explore](#Explore)
-  * [Filter Points of Interest](#Filter-Points-of-Interest)
-  * [Get Directions](#Get-Directions)
-  * [Find Destinations with Street View](#Find-Destinations-with-Street-View)
-  * [Give & View Feedback](#Give-&-View-Feedback)
-  * [Submit New Points of Interest](#Submit New Points of Interest)
-  * [Administration](#Administration)
+* [Inspiration](#inspiration)
+* [What it Does](#what-it-does)
+  * [Browse](#browse)
+  * [Explore](#explore)
+  * [Filter](#filter)
+  * [Get Directions](#get-directions)
+  * [Find Destinations with Street View](#find-destinations-with-augmented-reality)
+  * [Give & View Feedback](#give-&-view-feedback)
+  * [Submit New Points of Interest](#submit-new-points-of-interest)
+  * [Administration](#administration)
 * [Application Structure](#application-structure)
+* [Download](#download)
 * [Development History](#development-history)
-    * [Hawaii Annual Code Challenge 2017](#hacc17)
-    * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
-    * [Milestone 2: User Feedback Driven Development](#milestone-2-data-model-development)
-* [Contributors](#Contributors)
+    * [Milestone 1: Mockup Development](#milestone-1:-clean-code-and-looking-forward)
+    * [Milestone 2: Data Model Development](#milestone-2:-finalizing-development)
+* [Contributors](#contributors)
 
 ## Inspiration
 
@@ -29,41 +29,50 @@ This app helps users explore and also find his or her way around the University 
 
 We believe that crowdsourcing and collaboration is a powerful and prevalent way to keep information up to date today.  With this in mind, users are also able to add points of interest by submitting their current location, or selecting a specific location manually.  User input can be administratively reviewed for validity.
 
-### Browse Points of Interest on the Map
+### Browse
 
-Find various points of interest, including, but not limited to restaurants, restrooms, entertainment venues, and more.  Further details such as descriptions, hours and the specific address are provided.
+Browse for various points of interest, including, but not limited to restaurants, restrooms, entertainment venues, and more. When browsing, further details such as descriptions, hours and the specific address are also provided, allowing you to get information about those specific places.
 
 <img src="/images/all.png">
 <img src="/images/info.png">
 
 ### Explore
 
+Using the "Explore" sidebar item, you can see some of the hottest places on campus, including locations such as the Warrior Recreational Center or Campus Center.
+
 <img src="/images/explore.png">
 
-### Filter Points of Interest
+### Filter
+
+If you are looking for something specific, filter by a specific category and find what you want with ease.
 
 <img src="/images/filter1.png">
 <img src="/images/filter2.png">
 
 ### Get Directions
-Find and map a route to your desired location.
+
+Directions are available through the app with Google Maps, so you can navigate the campus using the shortest route possible.
 
 <img src="/images/directions.png">
 
-### Find Destinations with Street View
-Switch to Street View to get a better idea of where your destination is with tags.
+### Find Destinations with Augmented Reality
+
+Switching to Augmented Reality allows you to get a better idea of where your destination is using overlays on top of Google's Stret View.
 
 <img src="/images/street1.png">
 <img src="/images/street2.png">
 
 ### Give & View Feedback
-Add and browse reviews of any point of interest.
+
+Write your own and browse through existing reviews of any point of interest.
 
 <img src="/images/feedback.png">
 
+<img src="/images/comments.png">
+
 ### Submit New Points of Interest
 
-We believe in crowd-sourcing. If you notice something missing on the map, add or remove it!
+We believe in crowd-sourcing. If you notice something missing on the map, add it!
 
 <img src="/images/submit0.png">
 <img src="/images/submit1.png">
@@ -81,15 +90,13 @@ User accounts are required for users to comment on places of interest. The user 
 
 <img src="/images/notverified.png">
 
-Confirmation email, with validation link.
+Here is an example of a confirmation email.
 
 <img src="/images/confirmEmail.png">
 
-<img src="/images/comments.png">
-
 ## Application Structure
 
-We built this application using Ionic, which is a cross-platfrom HTML framework.  This means that it is built for use as a web app, as well as for iOS and Android enabled devices.
+We built this application using Ionic, which is a cross-platform HTML framework. This means that it is built for use as a web app, while simultaneously being built for iOS and Android enabled devices.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -156,6 +163,16 @@ Next, run it, select view app, and enter the code `93627f19`.
 From here, select and run the 'LoveMilkTea' app.
 
 <img src="/images/code.jpg">
+
+## Development History
+
+### Milestone 1: Clean Code and Looking Forward
+
+During this milestone, we focused on cleaning up our existing code base. Much of the code from the Hawaii Annual Code Challenge was focused towards functionality rather than sustainability. After the code was changed to be more understandable and maintainable, we turned towards improving the application. We improved the styling on various places throughout the app, changed out icons to make it more intuitive, and finished implementing user accounts.
+
+### Milestone 2: Finalizing Development
+
+Milestone 2 was about continuing the issues left in Milestone 1, as well as updating and adding anything we felt needed to be added. During this milestone, we improved the administrative part of our app, allowing administrators to more easily manage incoming submissions and existing data. We also added supporting events happening as apart of our app, as well as deploying our app to the Google Play Store. 
 
 ## Contributors
 
