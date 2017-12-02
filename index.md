@@ -1,4 +1,4 @@
-![](images/splash.png)
+![Splash Image](images/splash.png)
 
 # Table of Contents
 
@@ -73,7 +73,7 @@ We believe in crowd-sourcing. If you notice something missing on the map, add or
 
 ### Administration
 
-Administrators can review, accept or reject data submissions. Administrative credentials are necessary to utilize functions that allow an administrator to approve, modify or reject user-submitted data. 
+Administrators can review, accept or reject data submissions. Administrative credentials are necessary to utilize functions that allow an administrator to approve, modify or reject user-submitted data.
 
 <img src="/images/approve.png">
 
@@ -152,7 +152,7 @@ Next, run it, select view app, and enter the code `93627f19`.
 
 From here, select and run the 'LoveMilkTea' app.
 
-<img src="/images/code.jpg" width=500px>
+<img src="/images/code.jpg">
 
 ## Contributors
 
