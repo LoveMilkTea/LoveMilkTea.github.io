@@ -9,14 +9,14 @@
   * [Filter](#filter)
   * [Get Directions](#get-directions)
   * [Find Destinations with Street View](#find-destinations-with-augmented-reality)
-  * [Give & View Feedback](#give-&-view-feedback)
+  * [Give & View Feedback](#give--view-feedback)
   * [Submit New Points of Interest](#submit-new-points-of-interest)
   * [Administration](#administration)
 * [Application Structure](#application-structure)
 * [Download](#download)
 * [Development History](#development-history)
-    * [Milestone 1: Mockup Development](#milestone-1:-clean-code-and-looking-forward)
-    * [Milestone 2: Data Model Development](#milestone-2:-finalizing-development)
+    * [Milestone 1: Mockup Development](#milestone-1-clean-code-and-looking-forward)
+    * [Milestone 2: Data Model Development](#milestone-2-finalizing-development)
 * [Contributors](#contributors)
 
 ## Inspiration
